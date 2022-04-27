@@ -53,6 +53,10 @@ Les manquements dans la base de données ne permettent pas de commencer l'étude
 
 -------
 
+### 
+
+
+
 On crée une nouvelle base de donnée avec ces modifications que l'on utilisera dans la suite. Elle contient 508 lignes et 8 colonnes. 
 
 
