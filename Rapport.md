@@ -51,5 +51,12 @@ On gardera uniquement huit colonnes.  `date`, `TO`, `R`, `hosp`, `rad`, `conf`, 
 
 Les manquements dans la base de données ne permettent pas de commencer l'étude avant novembre 2020. 
 
+-------
+
+On crée une nouvelle base de donnée avec ces modifications que l'on utilisera dans la suite. Elle contient 508 lignes et 8 colonnes. 
 
 
+
+## Création des batchs
+
+Il faut maintenant séparé les données en batch d'entrainement et de test. On peut par exemple choisir 
